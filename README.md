@@ -7,8 +7,8 @@ A simple command-line and web-based notes application built with Node.js.
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/dper94/notes-CLI.git>
+    cd <notes-CLI>
     ```
 
 2. Install dependencies:
